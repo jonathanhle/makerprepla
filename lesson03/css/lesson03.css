@@ -1,0 +1,41 @@
+.columns {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+}
+/*h1 tag selector*/
+h1 {
+  font-family: verdana;
+  color: AliceBlue;
+}
+.special-h2 {
+  font-family: verdana;
+  color: Pink;
+}
+h2 {
+  font-family: verdana;
+  border: 2px solid black;
+  width: 75%;
+  padding: 10px;
+}
+p {
+  color: green;
+}
+i {
+  font-size: 300%;
+}
+#video_summary {
+  background-color: blue;
+}
+#burn {
+  background-color: purple;
+}
+#dream {
+  background-color: red;
+}
+#temple {
+  background-color: green;
+}
+.default_div_styling {
+  padding:20px;
+}
